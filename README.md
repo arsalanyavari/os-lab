@@ -12,7 +12,7 @@ pre-reports and instructions file are in instructions directory
 - [x] Session 2: Is related to shell scripting and Makefile
   - [pre-report](new_files/instructions/Lab2/OSlab2_scripts_ECE_IUT.pdf)
   - [instruction](new_files/instructions/Lab2/OSlab2_instructions_ECE_IUT.pdf)
-  - answers:
+  - [answers:](new_files/s02)
     - [part1](new_files/s02/part1/script.sh)
     - [part2](new_files/s02/part2)
 - [ ]  Session 3
