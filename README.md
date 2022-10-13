@@ -8,7 +8,7 @@ pre-reports and instructions file are in instructions directory
 - [x] Session 1: Is related to linux commands...
   - [pre-report](new_files/instructions/Lab1/OSlab1_linuxIntro.pdf)
   - [instruction](new_files/instructions/Lab1/OSlab1_instructions_ECE_IUT.pdf)
-  - [answer](new_files/s01/main.sh)
+  - [answer](new_files/s01)
 - [x] Session 2: Is related to shell scripting and Makefile
   - [pre-report](new_files/instructions/Lab2/OSlab2_scripts_ECE_IUT.pdf)
   - [instruction](new_files/instructions/Lab2/OSlab2_instructions_ECE_IUT.pdf)
