@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [ -z "$(which dialogs)" ]
+then
+         sudo apt-get -y install || sudo yum install -y dialog || sudo pacman -Sy dialog || brew install -y dialog || echo -e "\033[0;31mInstall dialog please\!\033[0m"
+fi
+
 HEIGHT=15
 WIDTH=60
 CHOICE_HEIGHT=4
