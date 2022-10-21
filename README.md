@@ -15,7 +15,13 @@ pre-reports and instructions file are in instructions directory
   - [answers:](new_files/s02)
     - [part1](new_files/s02/part1/script.sh)
     - [part2](new_files/s02/part2)
-- [ ]  Session 3
+- [x]  Session 3: Is related to kernel module
+  - [pre-report](new_files/instructions/Lab3/OSlab3_kernel_module_ECE_IUT.pdf)
+  - [instruction](new_files/instructions/Lab3/OSLab_3_instructions_ECE_IUT.pdf)
+  - [answers:](new_files/s03)
+    - [part1](new_files/s03/part1)
+    - [part2](new_files/s03/part2)
+    - [part3](new_files/s03/part3/configure.sh)
 - [ ]  Session 4
 - [ ]  Session 5
 - [ ]  Session 6
