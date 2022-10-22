@@ -9,10 +9,10 @@ all:
 	gcc ./*.c -o pow -Wall
 
 install:
-	sudo mv pow /etc/profile.d
+	sudo mv pow /usr/bin
 
 uninstall:
-	sudo rm -rf /etc/profile.d/pow
+	sudo rm -rf /usr/bin/pow
 
 clean:
 	@echo -e "\e[1;33m>> \e[1;35mcleaning...\e[0m"
