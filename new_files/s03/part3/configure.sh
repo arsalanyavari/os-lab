@@ -8,7 +8,7 @@ fi
 HEIGHT=15
 WIDTH=60
 CHOICE_HEIGHT=4
-BACKTITLE="\Zb Be a nice person :) \ZB"
+BACKTITLE="Be a nice person :)"
 TITLE="Choose one of the following options:"
 
 
