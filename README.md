@@ -25,7 +25,7 @@ pre-reports and instructions file are in instructions directory
 - [x]  Session 4
   - [pre-report](new_files/instructions/Lab4/OSlab4_kernel_module_ECE_IUT.pdf)
   - [instruction](new_files/instructions/Lab4/OSLab_4_instructions_ECE_IUT.pdf)
-  - [answers:](new_files/s04)
+  - [answer](new_files/s04)
 - [x]  Session 5
   - [pre-report](new_files/instructions/Lab5/OSlab5_process_ECE_IUT.pdf)
   - [instruction](new_files/instructions/Lab5/OSlab5_instructions_ECE_IUT.pdf)
