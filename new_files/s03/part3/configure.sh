@@ -67,7 +67,7 @@ do
         ## or ##
 
         # sudo chmod +x ./device_control.py \
-        #     && sudo python3 ./device_control.py ${parameter[0]} ${parameter[1]} ${parameter[2]} ${parameter[3]}
+        #     && sudo ./device_control.py ${parameter[0]} ${parameter[1]} ${parameter[2]} ${parameter[3]}
 
         popd
     elif [[ $i = "Remove" ]]
