@@ -44,10 +44,10 @@ do
         #Update dialog values...
         WIDTH=45
         TITLE="Please enter the information with no space ~_~"
-        OPTIONS=(" Device name:" 1 1 '' 1 24 15 0
-                 " Type of transaction:" 2 1 '' 2 24 15 0
-                 " Source account:" 3 1 '' 3 24 15 0
-                 " Destination account:" 4 1 '' 4 24 15 0)
+        OPTIONS=(" Type of transaction:" 1 1 '' 1 24 15 0
+                 " Source account:" 2 1 '' 2 24 15 0
+                 " Destination account:" 3 1 '' 3 24 15 0
+                 " Amounts:" 4 1 '' 4 24 15 0)
 
         CHOICE=$(dialog \
                  --backtitle "$BACKTITLE" \
