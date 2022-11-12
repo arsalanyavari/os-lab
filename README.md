@@ -32,7 +32,12 @@ pre-reports and instructions file are in instructions directory
   - [answers:](new_files/s05)
     - [part1](new_files/s05/part1)
     - [part2](new_files/s05/part2)
-- [ ]  Session 6
+- [x]  Session 6
+  - [pre-report](new_files/instructions/Lab6/OSLab6_IPC_pipes_ECE_IUT.pdf)
+  - [instruction](new_files/instructions/Lab6/OSLab6_instructions_ECE_IUT.pdf)
+  - [answers:](new_files/s06)
+    - [part1](new_files/s06/Q2-struct-version)
+    - [part2](new_files/s05/part2)
 - [ ]  Session 7
 - [ ]  Session 8
 - [ ]  Session 9
