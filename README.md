@@ -38,7 +38,13 @@ pre-reports and instructions file are in instructions directory
   - [answers:](new_files/s06)
     - [part1](new_files/s06/Q1.c)
     - [part2](new_files/s06/Q2-struct-version/)
-- [ ]  Session 7
+- [x]  Session 7
+  - [pre-report](new_files/instructions/Lab7/OSLab7_signals_ECE_IUT.pdf)
+  - [instruction](new_files/instructions/Lab7/OSLab7_instructions(v2)_ECE_IUT.pdf)
+  - [answers:](new_files/s07)
+    - [part1](new_files/s07/part1)
+    - [part2](new_files/s07/part2/main.c)
+    - [part3](new_files/s07/part3/main.c)
 - [ ]  Session 8
 - [ ]  Session 9
 - [ ]  Session 10
