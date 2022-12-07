@@ -1,0 +1,22 @@
+#Steps to configure and run the project like as below:
+
+* Use the following command to install Dependencies
+~sudo apt install -y build-essential flex bc libelf-dev dwarves bison qemu-kvm libncurses-dev~
+
+* copy changed kernel to extracted kernel
+~cp -r changed\ kernel/* linux-5.15.77/~
+
+/Note:/
+_You need to download linux kernel version 5.15.77 from_ [[https://kernel.org]]
+* Compiling the kernel
+  -  ~cp linux-5.15.77/~
+  -  ~make -j2~
+  -  ~cd ..~
+
+* Compiling and creating initramfs.img
+  - ~gcc -static init.c -o init~
+  - ~echo init | cpio -ov --format=newc > initramfs.img~
+
+* After compiling the kernel and building the initramfs, use the following command to run the qemu virtual machine
+  - ~qemu-system-x86_64 -kernel linux-5.15.77/arch/x86/boot/bzImage -initrd initramfs.img~
+  
