@@ -22,34 +22,34 @@ pre-reports and instructions file are in instructions directory
     - [part1](new_files/s03/part1)
     - [part2](new_files/s03/part2)
     - [part3](new_files/s03/part3/configure.sh)
-- [x]  Session 4
+- [x]  Session 4: Is related to kernel module
   - [pre-report](new_files/instructions/Lab4/OSlab4_kernel_module_ECE_IUT.pdf)
   - [instruction](new_files/instructions/Lab4/OSLab_4_instructions_ECE_IUT.pdf)
   - [answer](new_files/s04)
-- [x]  Session 5
+- [x]  Session 5: Is related to process management
   - [pre-report](new_files/instructions/Lab5/OSlab5_process_ECE_IUT.pdf)
   - [instruction](new_files/instructions/Lab5/OSlab5_instructions_ECE_IUT.pdf)
   - [answers:](new_files/s05)
     - [part1](new_files/s05/part1)
     - [part2](new_files/s05/part2)
-- [x]  Session 6
+- [x]  Session 6: Is related to pipes
   - [pre-report](new_files/instructions/Lab6/OSLab6_IPC_pipes_ECE_IUT.pdf)
   - [instruction](new_files/instructions/Lab6/OSLab6_instructions_ECE_IUT.pdf)
   - [answers:](new_files/s06)
     - [part1](new_files/s06/Q1.c)
     - [part2](new_files/s06/Q2-struct-version/)
-- [x]  Session 7
+- [x]  Session 7: Is related to signals & shared_memory
   - [pre-report](new_files/instructions/Lab7/OSLab7_signals_ECE_IUT.pdf)
   - [instruction](new_files/instructions/Lab7/OSLab7_instructions(v2)_ECE_IUT.pdf)
   - [answers:](new_files/s07)
     - [part1](new_files/s07/part1)
     - [part2](new_files/s07/part2/main.c)
     - [part3](new_files/s07/part3/main.c)
-- [x]  Session 8
+- [x]  Session 8: Is related to systemcals in linux
   - [pre-report](new_files/instructions/Lab8/OSlab8_system_call_ECE_IUT.pdf)
   - [instruction](new_files/instructions/Lab8/OSLab8_instructions_ECE_IUT.pdf)
   - [answer](new_files/s08) 
-- [x]  Session 9
+- [x]  Session 9:  Is related to threads
   - [pre-report](new_files/instructions/Lab9/OSLab9_IPC_threads_ECE_IUT.pdf)
   - [instruction](new_files/instructions/Lab9/OSLab9_instructions_ECE_IUT.pdf)
   - [answers:](new_files/s09)
