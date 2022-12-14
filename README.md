@@ -49,5 +49,10 @@ pre-reports and instructions file are in instructions directory
   - [pre-report](new_files/instructions/Lab8/OSlab8_system_call_ECE_IUT.pdf)
   - [instruction](new_files/instructions/Lab8/OSLab8_instructions_ECE_IUT.pdf)
   - [answer](new_files/s08) 
-- [ ]  Session 9
-- [ ]  Session 10
+- [x]  Session 9
+  - [pre-report](new_files/instructions/Lab9/OSLab9_IPC_threads_ECE_IUT.pdf)
+  - [instruction](new_files/instructions/Lab9/OSLab9_instructions_ECE_IUT.pdf)
+  - [answers:](new_files/s09)
+    - [part1](new_files/s09/Q1.c)
+    - [part2](new_files/s09/Q2.c)
+    - [part3](new_files/s09/Q3.c)
